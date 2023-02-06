@@ -1,5 +1,5 @@
 # Diagnostic-Analysis-Tech-issues
-**This was a group project done in school by @mojolasstory, aswini chacko and suriya Arivanandan.**
+**This was a group project done in school by [@mojolasstory](https://github.com/mojolasstory), aswini chacko and suriya Arivanandan.**
 
 We use the data provided to show analysis of network and user actions logs.
 The data has several different event types, and records the Device
